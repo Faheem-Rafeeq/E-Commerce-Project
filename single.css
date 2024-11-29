@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif !important;
+    background-color: #dddfe2 !important;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    color: rgb(116, 110, 110);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.cart2 {
+    margin: 15px;
+    max-width: 600px;
+    padding: 10px;
+}
+
+.review {
+    border: 1px solid black;
+    padding: 10px;
+    max-width: 600px; 
+    margin: auto; 
+    margin-top: 10px;
+}
+.description-title {
+    font-size: 2em; 
+}
+
+.description-text {
+    font-size: 0.5em; 
+ 
+}
