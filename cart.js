@@ -4,7 +4,8 @@ const div = document.querySelector(".container");
 
 function renderItems() {
     if (cartItems.length > 0) {
-        div.innerHTML = ''; 
+         
+       div.innerHTML = ''; 
         cartItems.forEach((item, index) => {
             div.innerHTML += `
             <div class="cart2">
